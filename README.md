@@ -1,6 +1,27 @@
-# RiskLens
+# <div align="center"> RiskLens </div>
 
-一个使用 Python 和 PySide6 构建的，用于模拟和可视化风险的桌面应用。
+<div align="center"> <em> A Monte Carlo Simulation Tool for Risk Analysis </em> </div>
+
+<br>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/version-v0.1.0--alpha-9644F4?style=for-the-badge" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/badge/license-MIT-E53935?style=for-the-badge" alt="License"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version"></a>
+</div>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Support"></a>
+  <a href="#"><img src="https://img.shields.io/badge/updated-2025--06--22-0097A7?style=for-the-badge&logo=calendar&logoColor=white" alt="Last Updated"></a>
+</div>
+
+## 📖 关于项目 (About This Project)
+
+这是一个为朋友的课程设计而创建的简单的蒙特卡洛模拟小工具，主要用于功能演示
+
+This is a simple Monte Carlo simulation small tool created for a friend's course project. It is intended for academic exchange and functional demonstration purposes.
+
+---
 
 ## ✨ 主要功能
 
