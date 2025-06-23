@@ -1,0 +1,7 @@
+[project]
+name = "risklens"
+version = "0.1.0"
+description = "A Monte Carlo Simulation Tool for Risk Analysis"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["matplotlib>=3.10.3", "pyinstaller>=6.14.1", "pyside6>=6.9.1"]

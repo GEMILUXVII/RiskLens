@@ -1,3 +1,11 @@
-gui/__pycache__/main_window.cpython-311.pyc
-core/__pycache__/simulation.cpython-311.pyc
-database/__pycache__/handler.cpython-311.pyc
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+SimpleRiskSystem.spec

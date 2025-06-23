@@ -27,7 +27,7 @@ def calculate_risk(risk_type, probability):
 
 def get_random_location():
     """Returns a random location from a predefined list."""
-    locations = ['北京', '上海', '广州', '深圳', '成都', '武汉']
+    locations = ['武汉']
     return random.choice(locations)
 
 def get_current_time():
